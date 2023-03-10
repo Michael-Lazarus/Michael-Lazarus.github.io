@@ -34,7 +34,7 @@ Before starting, we should minimally have a resume, some markdown, Git and, Jeky
 ## Instructions
 
 ### Step 1: Create a Github account
-We are basing our work off Andrew Etter's book, Modern Technical writing, where Etter recommends we use a version control system as they streamline the software development process, which is our goal as CS students. Additionally, in order to publish sites on GitHub Pages, you will first off need a GitHub account (which is one of the most popular version control softwares). You can make one by simply visiting the [GitHub site](https://github.com/).
+We are basing our work off Andrew Etter's book, Modern Technical writing, where Etter recommends that we use a version control system as they streamline the software development process, which is our goal as CS students. Additionally, in order to publish sites on GitHub Pages, you will need a GitHub account (which is one of the most popular version control softwares). You can make one by simply visiting the [GitHub site](https://github.com/).
 
 ### Step 2: Create a new repository
 We now want to make a new repository to host our resume. You can do so by following the instructions below:
@@ -60,7 +60,7 @@ Once we have finished creating a git repository, we now want to clone the reposi
    git push #You can use this for subsequent pushes (Only works after you set up the origin using the command above)
    ``` 
 6. You might be asked to set up an email and username for the system to verify you, follow the prompts on the screen to complete the verification 
-7. Now we have successfully cloned a repository!
+7. We have successfully cloned a repository!
    
 ### Step 4: Formatting your resume
 For this step, format your resume into a markdown file named **index.md** using VS Code or any other Markdown editor of your choice. The reason we should have a markdown formatted resume is that Etter recommends that we should use a lightweight markup language for the fact that it is easy to read and convert to other forms. We will use this markdown file to generate our website (So we basically don't need to write a lick of HTML/JavaScript 🎉).
@@ -102,7 +102,7 @@ Your resume should now be hosted at https://<your-github-username>.github.io/res
 - [Git](https://rogerdudler.github.io/git-guide/)
 
 ## Acknowledgments:
-I would like to thank Chang, Kehinde and Robert (group 15 members) for proof reading my works
+I would like to thank Chang, Kehinde and Robert (group 15 members) for proof reading my work
 
 ## FAQs 
 * Why is Markdown better than a word processor?
@@ -117,5 +117,5 @@ I would like to thank Chang, Kehinde and Robert (group 15 members) for proof rea
 
 * How do I make my resume the landing page
 
-    - We can do this by renaming your resume file to index.md!
+    - rename your resume file to index.md!
   

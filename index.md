@@ -1,8 +1,3 @@
----
-layout: page
-title: Resume
-permalink: /Resume/
----
 
 # Michael Akpan 
 # Address: Winnipeg, R3T 2M5 
