@@ -52,9 +52,8 @@ We now want to make a new repository to host our resume. You can do so by follow
 
 1. Create a new repository by clicking the **"+"** sign at the to left corner and selecting **"New repository"**.
   ![Making a new repository](GIFSource/newRepo.gif)
-1. We will now want to set a repository name. While not necessary, it is recommended that the repository used for your GitHub Pages should be initialized with your username and the GitHub Pages link (username.github.io). To make our site easily discoverable, we should use the suggested format. Basically, if the username for our account is Mike, we should have our repository name as Mike.github.io (Note that the username is case sensitive).
-2. The repository is set to public by default, that's what we want (there's no need for a resume website that is open to only us). So from there you hit the **"Create repository"** button at the bottom.
-
+1. Next, set your repository name as username.github.io. Basically, if the username for our account is Mike, we should have our repository name set as Mike.github.io (Note that the username is case sensitive).
+2. The repository is set to public by default, that's what we want (there's no need for a resume website no one can access). Finally, hit the **"Create repository"** button at the bottom.
 
 ### Step 3: Clone your repository
 Once we have finished creating a git repository, we now want to clone the repository into our local machine (laptop or desktop). If you do not have a file where you plan to work from, this is the perfect chance to make one. This is going to require some terminal work. While working on a terminal might seem scary at first, once you get a hang of it, you'll probably always have it on at the background (I totally don't just leave mine open to look like a cool programmer that knows what they are doing 🤥).Once you have the file you plan to use, open it and prepare to take your first step into the magical world of Git (queue fireworks!)🎆:
@@ -78,7 +77,7 @@ Once we have finished creating a git repository, we now want to clone the reposi
 At this point you have either gone through the markdown tutorial in the prerequisites or had already had markdown editing skills, great! Now to complete this step, format your resume into a markdown file using VS Code or any other Markdown editor of your choice. The reason we should have a markdown formatted resume is that in Modern Technical Writing, Etter recommends that we should use a structured approach to documentation, which means using consistent formatting and clear, concise language. Another reason is that Etter advices us to use a lightweight markup language for the fact that it is easy to read and convert to other forms. We will use this markdown file to generate our website (So we basically don't need to write a lick of HTML/JavaScript 🎉).
 
 ### Step 5: Launch a static site
-Another step that Etter recommends in their book is to use a static site, as it has a wide usability range. Right now, we are using it to test wht our resume would look like as a website and editing and formatting it to perfection. Now in a folder that we want to set up a static site, repeat step [3.1](#step-3-clone-your-repository). Then use run the code below in the terminal:
+Another step that Etter recommends in their book is to use a static site, as it has a wide usability range, its easy to maintain and efficient. for thatreason, we are going to use it for our resume site. Repeat step [3.1](#step-3-clone-your-repository) in the file location we are working from. Then use run the code below in the terminal:
 
 ```bash
 jekyll new NewWebFile #you can replace the last argument in the command with anything you want to name the file
@@ -123,5 +122,5 @@ Your resume should now be hosted at https://<your-github-username>.github.io/res
 
 * How do I make my resume the landing page
 
-    - You can do this by renaming your resume file to index.md!
+    - We can do this by renaming your resume file to index.md!
   
