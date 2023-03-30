@@ -102,7 +102,7 @@ Your resume should now be hosted at https://<your-github-username>.github.io/res
 - [Git](https://rogerdudler.github.io/git-guide/)
 
 ## Acknowledgments:
-I would like to thank Chang, Kehinde and Robert (group 15 members) for proof reading my work
+I would like to thank Chang, Kehinde and Robert (group 15 members) for proof reading my work.
 
 ## FAQs 
 * Why is Markdown better than a word processor?

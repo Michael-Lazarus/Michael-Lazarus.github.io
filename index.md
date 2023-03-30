@@ -1,62 +1,34 @@
 
 # Michael Akpan 
-# Address: Winnipeg, R3T 2M5 
-# Contact: Akpanm@myumanitoba.ca
+### Akpanm@myumanitoba.ca  - [GitHub](https://github.com/Michael-Lazarus) - [Linkedin](https://www.linkedin.com/in/michael-akpan-205940226)
 
+
+## **Education**
+
+- Bachelor of science - Computer Science
+- University of Manitoba | Expected graduation: Dec 2023
+
+## **Technical Skills**
+- Programming languages: Python, Java, JavaScript, Solidity, SQL, TypeScript, C, C++, HTML/CSS.
+- Software Tools: Git, Jupyter Notebooks, Visual Studio Code, Eclipse, IntelliJ IDEA.
+- Frameworks: Node.js, React Native, Hardhat, Docker.
+- Operating Systems: Windows, macOS, Linux.
+
+## **NonTechnical Skills**
+- Communication Skills: Strong verbal and written communication skills, with the ability to effectively communicate complex technical concepts to non-technical stakeholders.
+- Problem-Solving Skills: Proven ability to analyze data, identify patterns, and find creative solutions to complex problems.
+- Adaptability/Flexibility: Ability to quickly adapt to changes and learn new skills in a fast-paced environment.
+- Teamwork and Collaboration: Demonstrated ability to work effectively in a team, contribute ideas, and support colleagues to achieve common goals.
+- Time Management and Organization: Strong ability to manage time effectively, prioritize tasks, and meet deadlines consistently.
+
+
+## **Projects**
+
+### HardHat NFT Implementation
+* Description: Designed, implemented, and tested an Ethereum-based NFT (non-fungible token) using the HardHat development environment. Utilized Javascript and Solidity to create a fully functioning NFT, which included the ability to create and transfer unique tokens. Implemented unit testing to ensure the NFT functioned as expected.
+
+* Key Skills/Tools Used: HardHat, Javascript, Solidity, Ethereum, NFT, unit testing.
 
 ## **Professional Summary**
 
 I have working experience in various fields, which has helped me gain an array of life skills. I am currently a full-time student at the University of Manitoba in hopes to pursue my dream of being a full-fledged software developer. I also consider myself a responsible brand representative with a lot of achievements due to being adept at any given task. I am eager to apply my knowledge and years of experience to new positions.
-
-## **Work History**
-
-### **Sales Rep** , 04/2019 to 08/2019
-
-_Intelife: Security and automation - Edmonton, Alberta._
-
-Contracted for building home security and automation models and managing customer relations.
-
-### **Warehouse logistics, 06/2020 - 09/2020**
-
-_Ikea - Winnipeg, Manitoba._
-
-Oversaw stocking, managing and organizing of warehouse products.
-
-### **Market research interviewer, 01/2021 – 06/2021**
-
-_Leger research - Winnipeg, Manitoba._
-
-Conducted outbound research and analytical surveys.
-
-### **CUSTOMER SERVICE REP, 06/2021-Present**
-
-_TTEC CANADA – WINNIPEG, MB._
-
-In charge of providing essential services to help resolve product-related issues and increase customer satisfaction.
-
-## **Education**
-
-### **High School Diploma, 2016**
-
-### - **Oluwamu international highschool** - Nigeria
-
-### **Bachelor of Science** : Computer science, 2023
-
-### - **University of Manitoba** - Winnipeg, MB
-
-## **Skills**
-
-Intermediate level computer programming in a wide array of languages
-
-A high proficiency in mathematics
-
-High level of social skills
-
-Good communication skills
-
-Innovative personnel
-
-High capability to work under pressure for long periods of time
-
-Highly proficient time management skills
-
