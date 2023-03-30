@@ -24,7 +24,7 @@
 
 ## **Projects**
 
-### NFT Implementation
+### HardHat NFT Implementation
 * Description: Designed, implemented, and tested an Ethereum-based NFT (non-fungible token) using the HardHat development environment. Utilized Javascript and Solidity to create a fully functioning NFT, which included the ability to create and transfer unique tokens. Implemented unit testing to ensure the NFT functioned as expected.
 
 * Key Skills/Tools Used: HardHat, Javascript, Solidity, Ethereum, NFT, unit testing.
