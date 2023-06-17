@@ -31,6 +31,26 @@
 
 ### Smart contract
 
+### Python MQ and server implementation
+* Description: Designed and implemented a message queue system that processes and transmits data through a python server I created using sockets.
+* Key tools used: Python libraries such as socket and select to create and managae server network.
+
+### Byzantine algorithm implementation
+* Description: Created a messaging platform that connects different players for a byzantine attack game. The purpose of this is to send messages arround the network and use consensus to determine when a player has turned maliscous and begun sending false data to corrupt the network.
+
+* Key tools used: Python
+
+### Poker Game
+* Description: Implemented a game of poker and deployed a GUI for the game.
+
+* Key tools used: Java
+
+### Mouse Maze
+* Description: built an algorithm to guide a mouse throgh a maze
+
+* Key tools used: C
+
+
 ## **Professional Summary**
 
 I have working experience in various fields, which has helped me gain an array of life skills. I am currently a full-time student at the University of Manitoba in hopes to pursue my dream of being a full-fledged software developer. I also consider myself a responsible brand representative with a lot of achievements due to being adept at any given task. I am eager to apply my knowledge and years of experience to new positions.
