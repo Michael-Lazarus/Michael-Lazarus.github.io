@@ -24,6 +24,11 @@
 
 ## **Projects**
 
+### [Game Web Store Implementation](https://github.com/rfehr-creator/Group17)
+* Description: Collaborated with a team of peers to design and build an online gaming web store
+
+* Tools used: JS, HTML, CSS.
+
 ### NFT Implementation
 * Description: Designed, implemented, and tested an Ethereum-based NFT (non-fungible token) using the HardHat development environment. Utilized Javascript and Solidity to create a fully functioning NFT, which included the ability to create and transfer unique tokens. Implemented unit testing to ensure the NFT functioned as expected.
 
