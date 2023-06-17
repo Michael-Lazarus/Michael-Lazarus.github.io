@@ -29,6 +29,12 @@
 
 * Tools used: JS, HTML, CSS.
 
+### Bus Navigator API
+* Details: Created an API using openAPI specification using the swagger editor. This API gives live update on bus locations and routes to assist with efficient travel.
+
+* Tools used: Swagger editor, REST APIs
+
+
 ### NFT Implementation
 * Description: Designed, implemented, and tested an Ethereum-based NFT (non-fungible token) using the HardHat development environment. Utilized Javascript and Solidity to create a fully functioning NFT, which included the ability to create and transfer unique tokens. Implemented unit testing to ensure the NFT functioned as expected.
 
